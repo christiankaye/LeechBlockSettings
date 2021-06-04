@@ -1,4 +1,5 @@
 # LeechBlockSettings
-Text File for LeechBlock for Firefox and Chrome / Chromium
-Bromite repo has link to ruleset converter
+Text File for LeechBlock for Firefox and Chrome / Chromium.
+
+The Bromite Github repo has the link to the ruleset converter
 
